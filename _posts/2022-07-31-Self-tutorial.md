@@ -9,8 +9,7 @@ tags:
 > MISSION: PROVIDE YOU WITH EFFECTIVE METHOD FOR SELF-LEARNING AND BRINGING AGILE INTO YOUR EDUCATIONAL PROCESS
 <!-- more -->
 
-<img class="plain"  src="/1.png"/>
-
+<img src="1.png" style="background:none; border:none; box-shadow:none;">
 
 ## DEFINITION
 
@@ -38,7 +37,7 @@ To be clear, we will adopt SСRUM’s elements but not the methodology itself.
 -Before creating a Sprint Backlog, we need to evaluate each user story.
 Create a Sprint Backlog and define the sprint duration after all tasks have been evaluated
 
-![Image](/4.pngg)
+![Image](/4.png)
 
 
 ## SCRUM ⇨ TUTORIAL
