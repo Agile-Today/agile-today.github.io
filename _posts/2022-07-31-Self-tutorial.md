@@ -9,7 +9,7 @@ tags:
 > MISSION: PROVIDE YOU WITH EFFECTIVE METHOD FOR SELF-LEARNING AND BRINGING AGILE INTO YOUR EDUCATIONAL PROCESS
 <!-- more -->
 
-![Image](https://agiletodayorg.files.wordpress.com/2022/05/agile-today-work-4-1.png)
+![Image](/1.png)
 
 ## DEFINITION
 
