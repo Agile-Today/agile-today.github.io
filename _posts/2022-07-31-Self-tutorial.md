@@ -9,7 +9,8 @@ tags:
 > MISSION: PROVIDE YOU WITH EFFECTIVE METHOD FOR SELF-LEARNING AND BRINGING AGILE INTO YOUR EDUCATIONAL PROCESS
 <!-- more -->
 
-![Image](/1.png)
+<img class="plain"  src="/1.png"/>
+
 
 ## DEFINITION
 
