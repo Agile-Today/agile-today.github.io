@@ -21,7 +21,7 @@ The material obtained from a course or book is not always correlated with what w
 
 > During the course, or while reading a book, we write out difficult-to-study or incomprehensible information and create a record of this topic in a notebook. We also add additional materials recommended by the author or independently found sources.
 
-![Image] (https://agiletodayorg.files.wordpress.com/2022/05/agile-today-work-6.png)
+![Image](https://agiletodayorg.files.wordpress.com/2022/05/agile-today-work-6.png)
 
 ## NOTES ⇨ SCRUM
 
