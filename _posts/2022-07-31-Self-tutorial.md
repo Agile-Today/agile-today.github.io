@@ -1,5 +1,5 @@
 ---
-title: Agile Tutorial
+title: SELF-LEARNING
 description: EFFECTIVE METHOD FOR SELF-LEARNING AND BRINGING AGILE INTO YOUR EDUCATIONAL PROCESS
 categories:
  - tutorial
