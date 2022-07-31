@@ -9,7 +9,7 @@ tags:
 > MISSION: PROVIDE YOU WITH EFFECTIVE METHOD FOR SELF-LEARNING AND BRINGING AGILE INTO YOUR EDUCATIONAL PROCESS
 <!-- more -->
 
-![Image](/assets/images/2.png)
+![Image](https://agiletodayorg.files.wordpress.com/2022/05/agile-today-work-4-1.png)
 
 ## DEFINITION
 
@@ -21,7 +21,7 @@ The material obtained from a course or book is not always correlated with what w
 
 > During the course, or while reading a book, we write out difficult-to-study or incomprehensible information and create a record of this topic in a notebook. We also add additional materials recommended by the author or independently found sources.
 
-![Image] (/assets/images/3.png)
+![Image] (https://agiletodayorg.files.wordpress.com/2022/05/agile-today-work-6.png)
 
 ## NOTES ⇨ SCRUM
 
@@ -29,7 +29,7 @@ The material obtained from a course or book is not always correlated with what w
 
 Topics become a user story at this point, and we add additional materials as tasks.
 
-![Image](/assets/images/4.png)
+![Image](https://agiletodayorg.files.wordpress.com/2022/05/agile-today-work-5.png)
 
 ## SCRUM
 
@@ -41,7 +41,7 @@ Topics become a user story at this point, and we add additional materials as tas
 
 Create a Sprint Backlog and define the sprint duration after all tasks have been evaluated
 
-![Image](/assets/images/5.png)
+![Image](https://agiletodayorg.files.wordpress.com/2022/05/agile-today-work-14.png)
 
 
 ## SCRUM ⇨ TUTORIAL
@@ -50,6 +50,6 @@ Create a Sprint Backlog and define the sprint duration after all tasks have been
 
 It is important to evaluate the topic during the transition to the tutorial so that we can repeat the most important parts of the content being studied the next time we return to the tutorial.
 
-![Image](/assets/images/6.png)
+![Image](https://agiletodayorg.files.wordpress.com/2022/05/agile-today-work-10.png)
 
 
