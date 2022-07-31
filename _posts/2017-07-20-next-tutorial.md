@@ -1,6 +1,6 @@
 ---
-title: Next Theme Tutorial
-description: NexT is a high quality elegant Jekyll theme ported from Hexo Next. It is crafted from scratch, with love.
+title: Agile Tutorial
+description: We have compiled the best Agile Practices and Methodologies for you.
 categories:
  - tutorial
 tags:
@@ -12,23 +12,13 @@ tags:
 
 [Live Preview](http://simpleyyt.github.io/jekyll-theme-next/)
 
-## Screenshots
+## Agile Frameworks
 
-* Desktop
-![Desktop Preview](http://iissnan.com/nexus/next/desktop-preview.png)
+### KANBAN
+KANBAN dsf
 
-* Sidebar
-
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-preview.png)
-
-* Sidebar (Post details page)
-
-![Desktop Sidebar Preview](http://iissnan.com/nexus/next/desktop-sidebar-toc.png)
-
-* Mobile
-
-![Mobile Preview](http://iissnan.com/nexus/next/mobile.png)
-
+### SCRUM
+The 5 Scrum values 
 
 ## Installation
 
