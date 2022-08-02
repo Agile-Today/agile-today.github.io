@@ -43,17 +43,17 @@ Using the Kanban method means applying a holistic way of thinking about your ser
 With the Kanban Method, you visualize invisible knowledge work and how it moves through a workflow. This helps to effectively operate your business, including understanding and managing risks in delivering your services to the customers. With Kanban, you and your business will develop an adaptive capability over time to respond better and faster to changes in your customers’ needs and expectations or within your business environment.
 
 
-Books to read:
+</p></b>Books to read:</b></p>
 
--Kanban - An Alternative Path to Agility (David J. Anderson)
+<p>-Kanban - An Alternative Path to Agility (David J. Anderson)</p>
 
--Essential Kanban Condensed (David J. Anderson & Andy Carmichael)
+<p>-Essential Kanban Condensed (David J. Anderson & Andy Carmichael)</p>
 
--Practical Kanban: From Team Focus to Creating Value (Klaus Leopold)
+<p>-Practical Kanban: From Team Focus to Creating Value (Klaus Leopold)</p>
 
--Kanban from the Inside (Mike Burrows)
+<p>-Kanban from the Inside (Mike Burrows)</p>
 
-LINKS:
+</p></b>LINKS:</b></p>
 <p><a href="https://scrumguides.org/scrum-guide.html">Download the Kanban guide</a></p>
 
 ### SCRUM
