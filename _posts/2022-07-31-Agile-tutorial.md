@@ -36,14 +36,10 @@ Through this work we have come to value:
 <img src="/11.png" style="background:none; border:none; box-shadow:none;">
 
 
-With Kanban, you can manage work. It is a method to manage all types of professional services, also referred to as knowledge work.
-
-Using the Kanban method means applying a holistic way of thinking about your services with a focus on improving them from your customers’ perspective.
-
-With the Kanban Method, you visualize invisible knowledge work and how it moves through a workflow. This helps to effectively operate your business, including understanding and managing risks in delivering your services to the customers. With Kanban, you and your business will develop an adaptive capability over time to respond better and faster to changes in your customers’ needs and expectations or within your business environment.
+<p>With the Kanban Method, you visualize invisible knowledge work and how it moves through a workflow. This helps to effectively operate your business, including understanding and managing risks in delivering your services to the customers. With Kanban, you and your business will develop an adaptive capability over time to respond better and faster to changes in your customers’ needs and expectations or within your business environment.</p>
 
 
-</p></b>Books to read:</b></p>
+<p><b>Books to read:</b></p>
 
 <p>-Kanban - An Alternative Path to Agility (David J. Anderson)</p>
 
@@ -53,28 +49,23 @@ With the Kanban Method, you visualize invisible knowledge work and how it moves 
 
 <p>-Kanban from the Inside (Mike Burrows)</p>
 
-</p></b>LINKS:</b></p>
+<p><b>LINKS:</b></p>
 <p><a href="https://scrumguides.org/scrum-guide.html">Download the Kanban guide</a></p>
 
 ### SCRUM
 
-Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.
+<p>Scrum is a lightweight framework that helps people, teams and organizations generate value through adaptive solutions for complex problems.</p>
 
-In a nutshell, Scrum requires a Scrum Master to foster an environment where:
+<p>In a nutshell, Scrum requires a Scrum Master to foster an environment where:</p>
+<p>-A Product Owner orders the work for a complex problem into a Product Backlog.</p>
+<p>-The Scrum Team turns a selection of the work into an Increment of value during a Sprint.</p>
+<p>-The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.</p>
 
--A Product Owner orders the work for a complex problem into a Product Backlog.
-
--The Scrum Team turns a selection of the work into an Increment of value during a Sprint.
-
--The Scrum Team and its stakeholders inspect the results and adjust for the next Sprint.
-
--Repeat
+<p>-Repeat</p>
 
 
 
-Books to read:
--Kanban - An Alternative Path to Agility (David J. Anderson)
--Essential Kanban Condensed (David J. Anderson & Andy Carmichael)
+<p><b>Books to read:</b></p>
 
-LINKS:
+<p><b>LINKS:</b></p>
 <p><a href="https://scrumguides.org/scrum-guide.htm">Read the official Scrum Guide online</a></p>
