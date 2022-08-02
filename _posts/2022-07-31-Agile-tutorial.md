@@ -16,7 +16,7 @@ tags:
 
 Agile is an iterative approach to project management and software development that helps teams deliver value to their customers faster and with fewer headaches. Instead of betting everything on a "big bang" launch, an agile team delivers work in small, but consumable, increments. Requirements, plans, and results are evaluated continuously so teams have a natural mechanism for responding to change quickly.
 
-###T he Agile Manifesto
+### The Agile Manifesto
 
 We are uncovering better ways of developing software by doing it and helping others do it.
 Through this work we have come to value:
