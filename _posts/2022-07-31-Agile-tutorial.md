@@ -66,6 +66,7 @@ Through this work we have come to value:
 
 
 <p><b>Books to read:</b></p>
-
+<p>-Scrum: The Art of Doing Twice the Work in Half the Time  Jeff Sutherland</p>
+<p>-Sprint (Jake Knapp)
 <p><b>LINKS:</b></p>
 <p><a href="https://scrumguides.org/scrum-guide.htm">Read the official Scrum Guide online</a></p>
