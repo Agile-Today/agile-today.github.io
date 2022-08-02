@@ -45,10 +45,13 @@ With the Kanban Method, you visualize invisible knowledge work and how it moves 
 
 Books to read:
 
-<p>-Kanban - An Alternative Path to Agility (David J. Anderson)</ p>
-<p>-Essential Kanban Condensed (David J. Anderson & Andy Carmichael)</ p>
-<p>-Practical Kanban: From Team Focus to Creating Value (Klaus Leopold)</ p>
-<p>-Kanban from the Inside (Mike Burrows)</ p>
+-Kanban - An Alternative Path to Agility (David J. Anderson)
+
+-Essential Kanban Condensed (David J. Anderson & Andy Carmichael)
+
+-Practical Kanban: From Team Focus to Creating Value (Klaus Leopold)
+
+-Kanban from the Inside (Mike Burrows)
 
 LINKS:
 <p><a href="https://scrumguides.org/scrum-guide.html">Download the Kanban guide</a></p>
